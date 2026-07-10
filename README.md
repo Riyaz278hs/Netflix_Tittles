@@ -10,7 +10,7 @@
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-Eda)
 - [Data Analysis](#Data-Analysis)
 - [Results & Key Findings](#Results--Key-Findings)
-- [Recommendations](#Recommendations)
+- [Strategic Recommendations](#Strategic- Recommendations)
 - [References](#References)
 - [Results](#Results)
 
