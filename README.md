@@ -2,16 +2,17 @@
 # 🎬 Netflix Movies and TV Shows Analysis
 
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Tools Used](#tools-used)
-- [Data Cleaning & Preparation](#data-cleaning--preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Data Analysis](#data-analysis)
-- [Results & Key Findings](#results--key-findings)
-- [Recommendations](#recommendations)
-- [Limitations](#limitations)
-- [References](#references)
+
+- [Project Overview](#Project-Overview)
+- [Data Sources](#Data-Sources)
+- [Tools Used](#Tools-Used)
+- [Data Cleaning & Preparation](#Data-Cleaning--Preparation)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-Eda)
+- [Data Analysis](#Data-Analysis)
+- [Results & Key Findings](#Results--Key-Findings)
+- [Recommendations](#Recommendations)
+- [References](#References)
+- [Results](#Results)
 
 ---
 
