@@ -80,4 +80,26 @@ FROM netflix_titles
 WHERE type = 'Movie'
 ORDER BY duration_minutes DESC;
 
+### 💡Strategic Recommendations
  
+- Focus on Series: Shift budget toward episodic TV Shows to increase platform watch time and reduce subscriber churn.
+- Grow Family Content: Expand kid-friendly categories (TV-Y and G) to attract more multi-user family subscriptions.
+- Localize Production: Increase investments in regional content hubs like India and the UK to accelerate international subscriber growth.
+
+ ### 📚References
+ 
+- Dataset: Kaggle Netflix Dataset – Public platform catalog containing raw movie and television data listings.
+- Coursework: SQL for Business Analytics by Werty – Core textbook syntax guidelines for relational query structures.
+- Community: Stack Overflow – Technical documentation utilized for resolving text string cleaning challenges.
+
+### 🏆Results
+
+- Catalog Mix: Netflix holds 8,807 total titles, consisting of 6,131 Movies (~70%) and 2,676 TV Shows (~30%).
+- Top Audience: TV-MA is the most frequent rating (3,207 titles), followed by TV-14 (2,160 titles).
+- Top Producer: The United States leads global production (2,818 titles), with India ranking second (972 titles).
+
+😄
+
+💻
+
+
