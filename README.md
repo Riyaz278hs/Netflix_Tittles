@@ -9,8 +9,7 @@
 - [Data Cleaning & Preparation](#Data-Cleaning--Preparation)
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-Eda)
 - [Data Analysis](#Data-Analysis)
-- [Results & Key Findings](#Results--Key-Findings)
-- [Strategic Recommendations](#Strategic- Recommendations)
+- [Results & Key Findings](#Results--Key-Findings) -[StrategicRecommendations](#Strategic-Recommendations)
 - [References](#References)
 - [Results](#Results)
 
