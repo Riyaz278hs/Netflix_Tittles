@@ -3,11 +3,11 @@
 
 ## Table of Contents
 
-- [Project Overview](#Project-Overview)
-- [Data Sources](#Data-Sources)
-- [Tools Used](#Tools-Used)
-- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-Eda)
-- [Data Analysis](#Data-Analysis)
+- [ProjecOverview](#Project-Overview)
+- [DataSources](#Data-Sources)
+- [ToolsUsed](#Tools-Used)
+- [ExploratoryDataAnalysis (EDA)](#Exploratory-Data-Analysis-Eda)
+- [DataAnalysis](#Data-Analysis)
 - [StrategicRecommendations](#Strategic-Recommendations)
 - [References](#References)
 - [Results](#Results)
@@ -20,6 +20,7 @@ As a Computer Science Engineering graduate, I developed this project to analyze 
 1. Trend Analysis: Track how Netflix shifted its focus between movies and TV shows over the last decade.
 2. Geographical Insights: Identify the top content-producing nations globally.
 3. Target Audience Profiling: Analyze maturity ratings (PG-13, TV-MA, R) to understand Netflix's primary target demographic.
+
 
 ---
 
