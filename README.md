@@ -21,6 +21,7 @@ As a Computer Science Engineering graduate, I developed this project to analyze 
 2. Geographical Insights: Identify the top content-producing nations globally.
 3. Target Audience Profiling: Analyze maturity ratings (PG-13, TV-MA, R) to understand Netflix's primary target demographic.
 
+https://github.com/Riyaz278hs/Netflix_Tittles/blob/main/Netflix_titles_dashboard.png
 
 ---
 
