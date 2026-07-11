@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [Project Overviewe](#Project-Overview)
+- [Project Overview](#Project-Overview)
 - [Data Sources](#Data-Sources)
 - [Tools Used](#Tools-Used)
 - [Data Cleaning & Preparation](#Data-Cleaning--Preparation)
