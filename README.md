@@ -14,7 +14,7 @@
 
 ---
 
-### 💻 Project Overview
+### 💻Project Overview
 As a Computer Science Engineering graduate, I developed this project to analyze Netflix's vast library of movies and TV shows. The goal of this analysis is to uncover content trends, track the growth of platform listings over time, understand genre distributions, and reveal insights regarding regional content production.
 
 1. Trend Analysis: Track how Netflix shifted its focus between movies and TV shows over the last decade.
@@ -24,7 +24,7 @@ As a Computer Science Engineering graduate, I developed this project to analyze 
 
 ---
 
-### 📊 Data Sources
+### 📊Data Sources
 * netflix_titles.csv: The primary dataset containing data on 8,800+ shows and movies, including attributes like show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, and description.
 
 ---
@@ -44,7 +44,7 @@ In the initial data preparation phase, the following processes were executed to 
 
 ---
 
-### 🔍 Exploratory Data Analysis (EDA)
+### 🔍Exploratory Data Analysis (EDA)
 EDA was implemented to answer core inquiries regarding Netflix's content catalog strategy:
 1. What is the ratio distribution between Movies vs. TV Shows on the platform?
 2. Which countries are responsible for creating the highest volume of items?
@@ -52,7 +52,7 @@ EDA was implemented to answer core inquiries regarding Netflix's content catalog
 
 ---
 
-### 💾 Data Analysis
+### 💾Data Analysis
 Below are some of the interesting SQL queries drafted to parse and slice our core dataset:
 
 `sql
