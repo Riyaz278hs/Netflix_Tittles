@@ -1,6 +1,12 @@
 
 # 🎬 Netflix Movies and TV Shows Analysis
 
+[![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualization-yellow?style=flat&logo=powerbi)](https://powerbi.microsoft.com/)
+[![SQL](https://img.shields.io/badge/SQL-Data_Analysis-blue?style=flat&logo=sqlite)](https://www.sqlite.org/)
+[![Excel](https://img.shields.io/badge/MS_Excel-Data_Cleaning-green?style=flat&logo=microsoftexcel)](https://www.microsoft.com/excel)
+
+---
+
 ## Table of Contents
 
 - [ProjecOverview](#Project-Overview)
